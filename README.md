@@ -44,7 +44,8 @@ Property_Area	- Urbana/ Semi Urbana/ Rural
 
 Loan_Status	- Empréstimo Aprovado (Sim/Não)
 
-Durante a etapa de Análise de Dados foram descobertos diversos insights:
+
+**Durante a etapa de Análise de Dados foram descobertos diversos insights**:
 
 - Correlação positiva entre a Receita do Aplicante e o Valor do Empréstimo
 
