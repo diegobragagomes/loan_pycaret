@@ -44,3 +44,25 @@ Property_Area	- Urbana/ Semi Urbana/ Rural
 
 Loan_Status	- Empréstimo Aprovado (Sim/Não)
 
+Durante a etapa de Análise de Dados foram descobertos diversos insights:
+
+- Correlação positiva entre a Receita do Aplicante e o Valor do Empréstimo
+
+- Correlação negativa entre o Empréstimo ser aprovado ou não e o Histórico de Crédito
+
+- Corroborando com a questão anterior, os que tem Histórico de Crédito positivo, possuem maior chance de ter seu empréstimo aprovado
+
+- A maioria das pessoas nos dados não possui dependentes e não estão trabalhando como autônomos
+
+- Dos dados observados, há uma maioria de casados e pós-graduados
+
+- Os casados apresentam valores maiores de Receita do Aplicante do que os solteiros
+
+- Os Valores de Empréstimo e de Receita do Aplicante são maiores em homens do que em mulheres
+
+Para a estimativa com o objetivo de predizer se o empréstimo será aceito ou não foi implementado um modelo utilizando um blend (mistura) dos algoritmos KNN e Logistic Regression que atingiu uma performance de Precisão em 0.835. Escolhi a Precisão, pois a Acurácia, em modelos desbalanceados, nem sempre entrega resultados muito bons. Além disso, o foco na Precisão se faz por conta do resultado que se deseja obter, já que deixar um falso positivo passar é muito custoso para o banco ou unidade que está disponibilizando o empréstimo, por isso o foco na redução desses falsos positivos nos leva a utilizar o valor de Precisão nos modelos.
+
+Através desse projeto foi possível praticar e implementar conceitos importantes da Ciência de Dados e propor uma solução para um problema latente e recorrente em bancos e empresas que prestam o serviço de empréstimo para a população, através da Análise de Dados dos dados financeiros e pessoais e criação de um modelo de Machine Learning.
+
+Como um processo de melhoria contínua pode ser desenvolvido uma automação para executar pipeline de coleta e transformação de dados como automatizar os passo da etapa de Machine Learning e Deploy. ALém disso, poderia ser incluído todo o processamento na nuvem.
+
