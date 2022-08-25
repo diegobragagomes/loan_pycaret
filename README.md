@@ -21,15 +21,26 @@ Para as etapas de análise e Machine Learning, utilizou-se extensamente as possi
 Loan_ID	 - ID único
 
 Gender - 	Gênero( Masculino / Feminino)
+
 Married	 - Aplicante é casado? (Sim/Não)
+
 Dependents -	Número de Dependentes
+
 Education	 - Grau de Educação do Aplicante (Pós-graduação/ Graduação)
+
 Self_Employed	 - Autônomo (Sim/Não)
+
 ApplicantIncome	- Receita do Aplicante
+
 CoapplicantIncome -	Receita do Coaplicante
+
 LoanAmount	- Valor do empréstimo (em milhares)
+
 Loan_Amount_Term	- Tempo de empréstimo (em meses)
+
 Credit_History	- Histórico de crédito
+
 Property_Area	- Urbana/ Semi Urbana/ Rural
+
 Loan_Status	- Empréstimo Aprovado (Sim/Não)
 
