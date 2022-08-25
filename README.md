@@ -17,6 +17,7 @@ Para as etapas de análise e Machine Learning, utilizou-se extensamente as possi
 ## Etapas do Projeto
 
 **Descrição das Variáveis**:
+
 Loan_ID	 - ID único
 Gender - 	Gênero( Masculino / Feminino)
 Married	 - Aplicante é casado? (Sim/Não)
