@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Diego/Downloads/NovasAulas/Projetos/Machine%20Learning%20-%20PyCaret%20-%20Loan/mlruns/1/e26e8c04255d4ebc800f2e2aeb269b84/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: e26e8c04255d4ebc800f2e2aeb269b84
+run_uuid: e26e8c04255d4ebc800f2e2aeb269b84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1661449174527
+status: 1
+tags: []
+user_id: Diego
